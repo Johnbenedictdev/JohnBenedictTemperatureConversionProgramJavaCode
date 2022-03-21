@@ -5,7 +5,7 @@ As per the teacher's instructions the following documents were added:
     1) Proof of testing
     2) design document
     3) error log
-    4) temperature comversion java code
+    4) temperature comversion java code (take not that this document shows all iterations in the form of drafts. it first starts off with the final draft then first draft and the next drafts)
 
 In this repository the following were also added:
     1) .java program file
